@@ -1,14 +1,9 @@
-# Exchange values of two variables
 a, b = 1, 2
 a, b = b, a
 print("Swapped:", a, b)
-
-# Circulate the values of n variables
 a, b, c = 1, 2, 3
 a, b, c = c, a, b
 print("Circulated:", a, b, c)
-
-# Distance between two points
 import math
 x1, y1 = 0, 0
 x2, y2 = 3, 4
